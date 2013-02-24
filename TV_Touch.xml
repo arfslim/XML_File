@@ -1,1 +1,21 @@
-_
+<rss xmlns:georss="http://www.georss.org/georss" xmlns:twitter="http://api.twitter.com" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+    <title>TV-touch</title>
+    <link> http://www.TV_Touch.com </link>
+    <description>WindowsPhone8 App: TV Streaming/YoutubeChannel/Tweets/Podcasts/News ... </description>
+    <language>en-us</language>
+    <ttl>40</ttl>
+
+<item>
+<name>Aljazeera-tv </name>
+<link>http://www.aljazeera.net</link>
+<logo>C:\Users\slim\Desktop\MyProjects\ChannelTouch\ChannelTouch\Resources\SOURCES\pictures\Aljazeera.png</logo>
+</item>
+<item>
+<name>Alarabia-tv </name>
+<link>http://www.alarabiya.net</link>
+<logo>C:\Users\slim\Desktop\MyProjects\ChannelTouch\ChannelTouch\Resources\SOURCES\pictures\Alarabia.png</logo>
+</item>
+
+</channel>
+</rss>
